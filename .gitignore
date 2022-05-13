@@ -1,0 +1,8 @@
+fp-info-cache
+*.bak
+*-backups
+*.net
+*.pdf
+*.png
+*.svg
+*.kicad_prl

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Q\Documents\KiCad\Projects\nocny_dreczyciel\nocny_dreczyciel.kicad_sch</source>
+    <date>13/04/2022 19:37:21</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Nocny dręczyciel (Ośla Łączka, W2, C11)</title>
+        <company/>
+        <rev>1</rev>
+        <date>2022-04-12</date>
+        <source>nocny_dreczyciel.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>3V</value>
+      <footprint>VeeCad:CR2032_H</footprint>
+      <libsource lib="Custom_Generic" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nocny_dreczyciel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63d241a7-163f-4981-951e-5549a28157db</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>100μF</value>
+      <footprint>VeeCad:RA1_2</footprint>
+      <libsource lib="Custom_Generic" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nocny_dreczyciel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0fdb77a-9a95-4c54-92a1-9bc59d21c06b</tstamps>
+    </comp>
+    <comp ref="FT1">
+      <value>clear</value>
+      <footprint>VeeCad:LED</footprint>
+      <libsource lib="Custom_Generic" part="NPN_Photo" description="NPN phototransistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nocny_dreczyciel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f1c327f-df1a-4649-8447-1b437d9db9e1</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>47kΩ</value>
+      <footprint>VeeCad:AX3_1N</footprint>
+      <libsource lib="Custom_Generic" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nocny_dreczyciel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b579a2d-c6c6-48c4-9715-d2984c055d95</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1kΩ</value>
+      <footprint>VeeCad:AX3_1N</footprint>
+      <libsource lib="Custom_Generic" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nocny_dreczyciel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5616e060-5b86-4dcd-9b4d-11ae498dc82b</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1MΩ</value>
+      <footprint>VeeCad:AX3_1N</footprint>
+      <libsource lib="Custom_Generic" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nocny_dreczyciel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69f36b4c-e424-47aa-a797-30e767fbf95b</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>22kΩ</value>
+      <footprint>VeeCad:AX3_1N</footprint>
+      <libsource lib="Custom_Generic" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nocny_dreczyciel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d66eb21a-4706-4240-8ab1-8dc185c4ce60</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1MΩ</value>
+      <footprint>VeeCad:AX3_1N</footprint>
+      <libsource lib="Custom_Generic" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nocny_dreczyciel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c254670-36cf-4fe3-ac41-e11e5f09a981</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>220kΩ</value>
+      <footprint>VeeCad:AX3_1N</footprint>
+      <libsource lib="Custom_Generic" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nocny_dreczyciel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b6f8d83-27e0-4393-8be6-2e6ef4a03162</tstamps>
+    </comp>
+    <comp ref="T1">
+      <value>BC558</value>
+      <footprint>VeeCad:TO92</footprint>
+      <libsource lib="Custom_Generic" part="PNP BJT" description="PNP transistor, base/collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nocny_dreczyciel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>352feef2-3faa-4aa3-8bb4-7d025d4b9cdb</tstamps>
+    </comp>
+    <comp ref="T2">
+      <value>BC558</value>
+      <footprint>VeeCad:TO92</footprint>
+      <libsource lib="Custom_Generic" part="PNP BJT" description="PNP transistor, base/collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nocny_dreczyciel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10b5ad82-0802-4fd8-a21c-16061945b94f</tstamps>
+    </comp>
+    <comp ref="T3">
+      <value>BC548</value>
+      <footprint>VeeCad:TO92</footprint>
+      <libsource lib="Custom_Generic" part="NPN BJT" description="NPN transistor, base/collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nocny_dreczyciel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9da2086d-3f31-450b-86e2-b532d103a442</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>piezo 3..6V</value>
+      <footprint>VeeCad:BUZR_23_L</footprint>
+      <libsource lib="Custom_Generic" part="Buzzer_Active" description="Active piezo buzzer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nocny_dreczyciel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61f4e7f9-83ae-434a-8197-1793ca31e5d3</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Custom_Generic" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Generic" part="Buzzer_Active">
+      <description>Active piezo buzzer</description>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Buzzer_Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Generic" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Generic" part="NPN BJT">
+      <description>NPN transistor, base/collector/emitter</description>
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">NPN BJT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Generic" part="NPN_Photo">
+      <description>NPN phototransistor</description>
+      <fields>
+        <field name="Reference">FT</field>
+        <field name="Value">NPN_Photo</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Generic" part="PNP BJT">
+      <description>PNP transistor, base/collector/emitter</description>
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">PNP BJT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Generic" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Custom_Generic">
+      <uri>C:/Users/Q/Documents/KiCad/6.0/symbols/Custom_Generic.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(BT1-Pad1)">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="FT1" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(BT1-Pad2)">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="T3" pin="3" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="4" name="Net-(FT1-Pad2)">
+      <node ref="FT1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="T1" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="T2" pin="2" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="T3" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="T1" pin="2" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="T1" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="T2" pin="3" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="T2" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="T3" pin="2" pinfunction="B" pintype="input"/>
+    </net>
+  </nets>
+</export>
