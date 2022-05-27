@@ -1,0 +1,35 @@
+Check 	Item 	Value        	Lead forming
+o      	C1   	47μF         	No modification
+o      	C2   	47μF         	No modification
+o      	D1   	5x2mm red    	No modification
+o      	D2   	5x2mm yellow 	No modification
+o      	D3   	5x2mm yellow 	No modification
+o      	J1   	red          	Secure wire with knot through the drilled hole
+o      	J2   	black        	Secure wire with knot through the drilled hole
+o      	R1   	1kΩ         	Horizontal, L=4
+o      	R2   	220kΩ        	Horizontal, L=3
+o      	R3   	220kΩ        	Horizontal, L=3
+o      	R4   	10kΩ         	Horizontal, L=4
+o      	R5   	10kΩ         	Horizontal, L=5
+o      	R6   	1kΩ          	Horizontal, L=3
+o      	R7   	470Ω         	Vertical, L=1
+o      	R8   	10kΩ         	Horizontal, L=3
+o      	R9   	10kΩ         	Horizontal, L=3
+o      	R10  	10kΩ         	Vertical, L=1
+o      	R11  	10kΩ         	Vertical, L=1
+o      	SW1  	Tact 12mm    	No modification
+o      	SW2  	Tact 12mm    	No modification
+o     	T1   	BC548        	Inline base
+o     	T2   	BC548        	Inline base
+0     	T3   	BC557        	Inline base
+o     	TY1  	MCR 100-8    	Inline base
+o     	TY2  	MCR 100-8    	Inline base
+o     	Link 	L=1          	x1
+o     	Link 	L=2          	x1
+o     	Link 	L=3          	x3
+o     	Link 	L=4          	x4
+o     	Link 	L=5          	x1
+o     	Link 	L=7          	x1
+o     	Link 	L=9          	x1
+o     	Link 	L=11         	x1
+      

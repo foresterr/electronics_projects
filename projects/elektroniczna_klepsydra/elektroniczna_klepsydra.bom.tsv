@@ -4,19 +4,19 @@ o x    	C2   	4.7μF      	No modification
 o x    	C3   	470μF      	No modification
 o x    	D1   	LED_R      	No modification
 o x    	D2   	LED_R+G_CC 	Bend 90° - pay attention to where cathode is!
-o x    	D3   	4148       	Horizontal, L=4
+o x    	D3   	4148       	Horizontal, L=3
 o x    	J1   	+          	Just a wire attach point
 o x    	J2   	-          	Just a wire attach point
 o x    	R1   	1MΩ        	Vertical, L=1
-o x    	R2   	100Ω       	Horizontal, L=5
+o x    	R2   	100Ω       	Horizontal, L=4
 o x    	R3   	10kΩ       	Vertical, L=1
 o x    	R4   	100kΩ      	Vertical, L=2 (unusual)
-o x    	R5   	220Ω       	Horizontal, L=5
+o x    	R5   	220Ω       	Horizontal, L=4
 o x    	R6   	10kΩ       	Vertical, L=1
-o x    	R7   	10kΩ       	Horizontal, L=5
-o x    	R8   	10kΩ       	Horizontal, L=4
+o x    	R7   	10kΩ       	Horizontal, L=4
+o x    	R8   	10kΩ       	Horizontal, L=3
 o x    	R9   	10kΩ       	Vertical, L=1
-o x    	R10  	22kΩ       	Horizontal, L=6
+o x    	R10  	22kΩ       	Horizontal, L=5
 o x    	R12  	10Ω        	Vertical, L=1
 o x    	R13  	150Ω       	Vertical, L=1
 o x    	SW1  	SW_Push    	No modification
