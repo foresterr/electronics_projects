@@ -236,9 +236,7 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": [
-      "Custom_Generic"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "tester_refleksu.kicad_pro",

@@ -7,6 +7,7 @@
   (title_block
     (title "Elektroniczna klepsydra (Ośla Łączka, W3 C5)")
     (date "2022-05-05")
+    (rev "1")
     (company "Kuba Michalik")
   )
 
