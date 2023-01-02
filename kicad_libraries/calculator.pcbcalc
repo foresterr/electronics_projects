@@ -1,0 +1,25 @@
+(datafile
+  (version 1)
+    (date "Wed May 25 00:57:33 2022")
+      (tool "pcb_calculator (6.0.5)")
+        (regulators
+          (regulator "AZ431A"
+            (reg_vref 2.5)
+            (reg_iadj 0.7)
+            (reg_type 3terminal)
+          )
+          (regulator "AZ431LBZ"
+            (reg_vref 1.24)
+            (reg_iadj 0.15)
+            (reg_type 3terminal)
+          )
+          (regulator "LM317"
+            (reg_vref 1.25)
+            (reg_iadj 50)
+            (reg_type 3terminal)
+          )
+        )
+      )
+    )
+  )
+)
