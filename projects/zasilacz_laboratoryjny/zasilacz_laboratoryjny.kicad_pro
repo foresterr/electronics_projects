@@ -279,7 +279,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": 100,
     "drawing": {
       "default_line_thickness": 10.0,
       "default_text_size": 60.0,
@@ -299,7 +299,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "OrcadPCB2",
+    "net_format_name": "CadStar",
     "ngspice": {
       "fix_include_paths": true,
       "fix_passive_vals": false,
