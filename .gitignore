@@ -1,4 +1,5 @@
 fp-info-cache
+__pycache__
 *.bak
 *-backups
 *.log
@@ -8,5 +9,8 @@ fp-info-cache
 *.svg
 *.kicad_prl
 *.bak*.dxf
+*.xml
+*.xlsx
+*.csv
 \#auto_saved_files#
 _autosave-*
