@@ -1,0 +1,17 @@
+{
+    "layout": {
+        "rows": "7",
+        "cols": "2"
+    },
+    "tabs": {
+        "type": "full"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "clearance": "1.4mm",
+        "layer": "Edge.Cuts"
+    },
+    "framing": {
+        "type": "railslr"
+    }
+}
