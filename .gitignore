@@ -14,3 +14,5 @@ __pycache__
 *.csv
 \#auto_saved_files#
 _autosave-*
+grb
+gerber_to_order
